@@ -21,7 +21,7 @@
 
   I am a Full Stack Web Developer from Kenya.
   
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="100%"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
 
 </div>
 
